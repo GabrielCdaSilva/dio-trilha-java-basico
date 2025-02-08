@@ -20,6 +20,5 @@ public class ContaTerminal {
         System.out.println("Agência: " + agencia);
         System.out.println("Conta: " + conta);
         System.out.println("Saldo: " + saldo + " já disponível para saque.");
-
     }
 }
